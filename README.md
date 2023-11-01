@@ -12,7 +12,7 @@ The gameplay mechanics are simple yet addictive. You control the character using
 
 ## Features
 
-- **AI Integration**: The game uses hand tracking to control the character. Show two fingers to the webcam to make the character jump.
+- **AI Integration**: The game uses hand tracking to control the character. Show open palm to the webcam to make the character jump.
 - **Scoring System**: Players earn points for each second they keep the character running.
 - **Game Over Screen**: When the player loses, a game over screen is displayed with their score.
 - **Background Music (BGM)**: The game features background music that adds to the immersive experience.
